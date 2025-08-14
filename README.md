@@ -12,9 +12,9 @@
 - [Başlangıç](#başlangıç)
 - [Kullanım](#kullanım)
 - [Teknolojiler](#teknolojiler)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-- [İletişim](#iletişim)
+- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
+- [📄 Lisans](#-lisans)
+- [📫 İletişim](#-iletisim)
 
 ---
 
